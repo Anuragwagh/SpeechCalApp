@@ -1,4 +1,2 @@
 Copy file
 delete file
-Update file
-New file
